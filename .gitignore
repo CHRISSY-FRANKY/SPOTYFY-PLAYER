@@ -1,0 +1,44 @@
+# C-specific ignores
+*.o
+*.obj
+*.a
+*.so
+*.dylib
+*.exe
+*.dll
+*.lib
+*.pdb
+*.exp
+*.ilk
+*.manifest
+*.sln
+*.suo
+*.vcxproj.user
+*.vcxproj.filters
+Debug/
+Release/
+build/
+bin/
+obj/
+
+# HTMX and general web development
+node_modules/
+dist/
+.vscode/
+.idea/
+*.log
+*.tmp
+*.bak
+*.swp
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# IDE and editor files
+.idea/
+.vscode/
+
+# Other
+.vscode-test/
+coverage/
