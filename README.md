@@ -1,3 +1,5 @@
+THIS APPLICATION WILL BE REWRITTEN AS A JAVA SPRINGBOOT APPLICATION
+
 # SPOTYFY PLAYER
 
 To avoid woke ads without having to pay for premium.
